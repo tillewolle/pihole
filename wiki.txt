@@ -1,1 +1,5 @@
 de.wikipedia.org##.wmde-banner-main
+http://de.wikipedia.org##.wmde-banner-main
+https://de.wikipedia.org##.wmde-banner-main
+http://en.wikipedia.org##.wmde-banner-main
+https://en.wikipedia.org##.wmde-banner-main
